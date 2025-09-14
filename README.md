@@ -73,6 +73,8 @@
   </a>
 </p>
 
+Текстовая схема подключения блока управления  — в [hardware/schematics/text-scheme-controller.md](hardware/schematics/text-scheme-controller.md).
+
 
 ## 💻 Программное обеспечение
 
