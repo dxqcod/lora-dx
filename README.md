@@ -59,10 +59,11 @@
 Система состоит из:
 1. **Ретранслятор** — передача управляющих сигналов и видео.
    <p align="center">
-  <a href="docs/photos/fronr_view_comments.jpg">
-    <img src="docs/photos/fronr_view_comments.jpg" width="400" />
+  <a href="docs/photos/fronr_view.jpg">
+    <img src="docs/photos/fronr_view.jpg" width="100" />
   </a>
 </p> 
+
 3. **Блок управления** — контроллер на ESP8266 + LoRa.  
 4. **Поворотная платформа** — управляемые сервоприводы + камера.  
 5. **Пульт оператора** — с дисплеем и управлением режимами.
