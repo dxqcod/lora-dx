@@ -47,8 +47,6 @@
 │   │   └── remote.ino
 │   └── libraries/           # Используемые сторонние библиотеки
 │
-├── examples/                # Примеры использования
-│   └── test_connections.md
 │
 └── .gitignore
 ```
