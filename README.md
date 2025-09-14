@@ -8,13 +8,11 @@
 
 <p align="center">
   <a href="docs/photos/fronr_view_comments.jpg">
-    <img src="docs/photos/fronr_view_comments.jpg" width="300" />
+    <img src="docs/photos/fronr_view_comments.jpg" width="400" />
   </a>
 </p>
 
 
-
-[![Вид спереди](docs/photos/fronr_view_comments.jpg)](docs/photos/fronr_view_comments.jpg)
 ---
 
 ## ✨ Возможности
