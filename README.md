@@ -60,7 +60,7 @@
 1. **Ретранслятор** — передача управляющих сигналов и видео.
    <p align="center">
   <a href="docs/photos/front_view.png">
-    <img src="docs/photos/front_view.png" width="100" />
+    <img src="docs/photos/front_view.png" width="200" />
   </a>
 </p> 
 
