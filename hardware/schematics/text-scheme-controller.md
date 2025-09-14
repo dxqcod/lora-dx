@@ -57,7 +57,7 @@ ________________________________________
 
 <p align="center">
   <a href="/docs/photos/wemos.jpg">
-    <img src="/docs/photos/wemos.jpg" width="600" />
+    <img src="/docs/photos/wemos.jpg" width="700" />
   </a>
 </p>
 
