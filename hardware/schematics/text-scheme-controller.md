@@ -53,3 +53,10 @@ ________________________________________
 •	Кнопка: Один контакт → D2, другой → GND.
 ```
 
+<p align="center">
+  <a href="docs/photos/wemos.jpg">
+    <img src="docs/photos/wemos.jpg" width="200" />
+  </a>
+</p>
+
+
