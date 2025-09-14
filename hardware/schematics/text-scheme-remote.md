@@ -50,4 +50,12 @@ ________________________________________
 •	Кнопка камеры: Один контакт → D3, другой → GND.
 •	Потенциометр: Средний вывод → A0, крайние выводы → 3.3V и GND.
 •	Светодиод: Подключён к LED_BUILTIN и GND.
+```
 
+<p align="center">
+  <a href="/hardware/wiring-diagrams.png">
+    <img src="/hardware/wiring-diagrams.png" width="700" />
+  </a>
+</p>
+
+hardware/wiring-diagrams.png
