@@ -59,8 +59,8 @@
 Система состоит из:
 1. **Ретранслятор** — передача управляющих сигналов и видео.
    <p align="center">
-  <a href="docs/photos/front_view.jpg">
-    <img src="docs/photos/front_view.jpg" width="100" />
+  <a href="docs/photos/front_view.png">
+    <img src="docs/photos/front_view.png" width="100" />
   </a>
 </p> 
 
