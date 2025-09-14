@@ -73,8 +73,8 @@
   </a>
 </p>
 
-Текстовая схема подключения блока управления  — в [hardware/schematics/text-scheme-controller.md](hardware/schematics/text-scheme-controller.md).
-Текстовая схема подключения пульта управления  — в [hardware/schematics/text-scheme-remote.md](hardware/schematics/text-scheme-remote.md).
+- Текстовая схема подключения блока управления  — в [hardware/schematics/text-scheme-controller.md](hardware/schematics/text-scheme-controller.md).
+- Текстовая схема подключения пульта управления  — в [hardware/schematics/text-scheme-remote.md](hardware/schematics/text-scheme-remote.md).
 
 ## 💻 Программное обеспечение
 
