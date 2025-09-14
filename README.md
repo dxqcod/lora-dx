@@ -4,8 +4,7 @@
 Основана на **LoRa (E220-900T22S)** и **ESP8266 (Wemos D1 Mini)**.  
 Предназначена для **дальнобойной связи**.
 
-docs/photos/фронт с  пояснениями.jpg
-[![Вид спереди](docs/photos/фронт с  пояснениями.jpg)](docs/photos/front_view.png)
+[![Вид спереди](docs/photos/fronr_view_comments.jpg)](docs/photos/fronr_view_comments.jpg)
 ---
 
 ## ✨ Возможности
