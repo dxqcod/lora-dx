@@ -32,13 +32,12 @@
 ├── README.md                # Основное описание проекта
 ├── docs/                    # Подробные описания, схемы
 │   ├── description.pdf
-│   ├── wiring-diagrams.md
-│   ├── architecture.png
 │   └── photos/
 │
 ├── hardware/                # Аппаратная часть
 │   ├── schematics/          # Схемы подключения (из текста + изображения)
-│   └── bill_of_materials.md # Список компонентов
+│   └── text-scheme-controller.md # Текстовая схема подключения блока управления
+│   └── text-scheme-remote.md # Текстовая схема подключения пульта управления
 │
 ├── firmware/                # Код для контроллеров
 │   ├── controller/          # Блок управления ретранслятором
