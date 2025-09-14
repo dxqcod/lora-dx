@@ -64,7 +64,7 @@
 | **Блок управления** — контроллер на ESP8266 + LoRa | <img src="docs/photos/station.jpg" width="200"/> <img src="docs/photos/station_open.png" width="200"/> |
 | **Поворотная платформа** — управляемые сервоприводы + камера | <img src="docs/photos/platform.jpg" width="200"/> |
 | **Пульт оператора** — с дисплеем и управлением режимами | <img src="docs/photos/remote_control.png" width="200"/> |
-| **БПЛА** — FPV борт со своей камерой | <img src="docs/photos/drone.png" width="200"/> |
+| **БПЛА** — FPV борт со своей камерой |  |
 
 
 
