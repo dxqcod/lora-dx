@@ -68,8 +68,8 @@
 
 ## 🔌Схема пульта управления
 <p align="center">
-  <a href="hardware/schematics/wiring-diagrams.png">
-    <img src="hardware/schematics/wiring-diagrams.png" width="400" />
+  <a href="hardware/wiring-diagrams.png">
+    <img src="hardware/wiring-diagrams.png" width="400" />
   </a>
 </p>
 
