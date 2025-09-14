@@ -19,16 +19,28 @@
 
 ## 📂 Структура репозитория
 ```lora-dx/
-├─ docs/ # Документация, PDF, изображения
-│ ├─ manual.pdf
-│ └─ images/
-├─ hardware/ # Аппаратная часть
-│ ├─ schematics/ # Схемы подключения
-│ └─ BOM.csv # Перечень компонентов (BOM)
-├─ firmware/
-│ ├─ controller/ # Код для пульта управления
-│ └─ transmitter/ # Код для ретранслятора
-├─ assets/ # Фото, рендеры, исходники изображений
-├─ README.md
-├─ LICENSE
-└─ .gitignore
+│
+├── README.md                # Основное описание проекта (кратко и подробно)
+├── LICENSE                  # Лицензия (например MIT или Apache 2.0)
+├── docs/                    # Подробные описания, схемы, PDF
+│   ├── description.pdf
+│   ├── wiring-diagrams.md
+│   ├── architecture.png
+│   └── photos/
+│
+├── hardware/                # Аппаратная часть
+│   ├── schematics/          # Схемы подключения (из текста + изображения)
+│   └── bill_of_materials.md # Список компонентов
+│
+├── firmware/                # Код для контроллеров
+│   ├── controller/          # Блок управления ретранслятором
+│   │   └── controller.ino
+│   ├── remote/              # Пульт управления
+│   │   └── remote.ino
+│   └── libraries/           # Используемые сторонние библиотеки
+│
+├── examples/                # Примеры использования
+│   └── test_connections.md
+│
+└── .gitignore
+
