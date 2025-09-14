@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="docs/photos/wemos.jpg">
-    <img src="docs/photos/wemos.jpg" width="200" />
-  </a>
-</p>
+
 
 ```
 Текстовая схема подключения блока управления:
@@ -61,7 +57,7 @@ ________________________________________
 
 <p align="center">
   <a href="/docs/photos/wemos.jpg">
-    <img src="/docs/photos/wemos.jpg" width="200" />
+    <img src="/docs/photos/wemos.jpg" width="400" />
   </a>
 </p>
 
