@@ -1,1 +1,28 @@
 
+# --- Системные файлы Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- macOS (если кто-то будет открывать проект) ---
+.DS_Store
+
+# --- IDE и редакторы ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Arduino / ESP8266 ---
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arduino build папки
+build/
+*.pio/
+
+# --- Логи и временные файлы ---
+*.log
+*.tmp
