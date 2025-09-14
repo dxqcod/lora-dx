@@ -66,7 +66,7 @@
 
 
 
-## 🔌Схема пульта управления
+## 🔌Схема 
 <p align="center">
   <a href="hardware/wiring-diagrams.png">
     <img src="hardware/wiring-diagrams.png" width="400" />
@@ -74,7 +74,7 @@
 </p>
 
 Текстовая схема подключения блока управления  — в [hardware/schematics/text-scheme-controller.md](hardware/schematics/text-scheme-controller.md).
-
+Текстовая схема подключения пульта управления  — в [hardware/schematics/text-scheme-remote.md](hardware/schematics/text-scheme-remote.md).
 
 ## 💻 Программное обеспечение
 
