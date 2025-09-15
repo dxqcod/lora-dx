@@ -45,7 +45,7 @@
 │   │   └── controller.ino   # Блок управления ретранслятором
 │   ├── remote/              
 │   │   └── remote.ino       # Пульт управления
-│
+├── LICENSE                  # Лицензия 
 │
 └── .gitignore
 ```
